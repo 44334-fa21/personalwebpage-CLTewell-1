@@ -3,19 +3,19 @@ body {
   background-color: skyblue;
 }
 h1 {
-  color: black;
+  color: #2B1B17;
   text-align: center;
   font-size: 60pt;
       }
 p {
-  color: red;
+  color: #FF0000;
   text-align: center;
   font-style: italic;
   font-size: 18pt;
   font-weight: 100;
 }
 h2{
-  color: purple;
+  color: #800080;
   font-style: oblique;
   font-size: 20pt;
   padding-left: 25%;
@@ -31,8 +31,8 @@ ul{
   padding: 10px
 }
 .grid-item{
-  background-color: rgba(255,255,255,0.8);
-  border: 1px solid rgba(0,0,0,0.8);
+  background-color:#FFF9E3;
+  border: 1px solid #FFF0F5;
   padding: 20px;
   font-size: 30px;
   text-align: center;
