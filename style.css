@@ -1,1 +1,43 @@
 /*Personal Web Page Style Sheet */
+body {
+  background-color: skyblue;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 60pt;
+      }
+p {
+  color: red;
+  text-align: center;
+  font-style: italic;
+  font-size: 18pt;
+  font-weight: 100;
+}
+h2{
+  color: purple;
+  font-style: oblique;
+  font-size: 20pt;
+  padding-left: 25%;
+}
+ul{
+  font-size: 18pt;
+  padding-left: 25%;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: auto;
+  background-color: #2196F3;
+  padding: 10px
+}
+.grid-item{
+  background-color: rgba(255,255,255,0.8);
+  border: 1px solid rgba(0,0,0,0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+a{
+  font-size: 20pt;
+  padding-left: 50%;
+}
