@@ -27,7 +27,7 @@ ul{
 .grid-container{
   display: grid;
   grid-template-columns: auto;
-  background-color: #2196F3;
+  background-color: #E8A317;
   padding: 10px
 }
 .grid-item{
