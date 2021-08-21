@@ -33,7 +33,7 @@ ul{
 }
 .grid-container{
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: 2;
   background-color: #E8A317;
   padding: 10px
 }
