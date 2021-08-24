@@ -20,13 +20,10 @@ p {
 }
 nav ul{
   list-style-type: none;
-          font-size: 1.2em;
-      padding-left: 50;
-      nav: hover {color:#FF00FF}
-      }
-
-
-
+  font-size: 1.2em;
+  padding-left: 50;
+  nav ul: hover {color:#FF00FF}
+}
 h2{
   color: #800080;
   font-style: oblique;
