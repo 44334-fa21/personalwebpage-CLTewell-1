@@ -16,11 +16,8 @@ p {
   font-style: italic;
   font-size: 18pt;
   font-weight: 100;
+}
 
-}
-a{
-  hover {color:#FF00FF}
-}
 h2{
   color: #800080;
   font-style: oblique;
@@ -39,7 +36,7 @@ ul{
 }
 .grid-container{
   display: grid;
-  grid-template-columns: 2;
+  grid-template-columns: auto;
   background-color: #E8A317;
   padding: 10px
 }
