@@ -18,10 +18,10 @@ p {
   font-weight: 100;
 
 }
-a {nav a:link { color: #330000; }
-   nav a:hover { color: #996600; }
-
+a {
+     a:hover { color: #FF0000; }
 }
+
 h2{
   color: #800080;
   font-style: oblique;
@@ -51,12 +51,8 @@ ul{
   font-size: 30px;
   text-align: center;
 }
-@media only screen and (max-width: 1024px) {
-            body { margin: 0; padding: 0; }
-            #wrapper { width: auto; margin: 0; }
-		    h1 { font-size: 200%; }
-			nav ul { text-align: center; }
-			nav li { padding: 0 0.5em;
-				     font-size: 1.2em;
-                     display: inline;
-			}
+
+footer{
+  color: #FF0000;
+  text-align: center;
+}
